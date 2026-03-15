@@ -1,0 +1,5 @@
+ip_address,event_count,threat_level
+192.168.1.10,3,HIGH
+45.33.32.156,3,HIGH
+1.1.1.1,2,NORMAL
+8.8.8.8,1,NORMAL
